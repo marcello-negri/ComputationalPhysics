@@ -1,2 +1,4 @@
 # ComputationalPhysics
-My individual projects for the course "Introduction to Computational Physics" (MSc level - 2019) at ETH Zürich
+My individual projects for the course "Introduction to Computational Physics" (MSc level - 2019) at ETH Zürich.
+
+In this course I learnt how to independently analyse and **simulate physical systems** through rigorous **mathematical models**. In particular, I implemented several **algorithms** to solve problems in an elegant and efficient way while visualising results to allow for intepretation. Among many I selected those projects that fascinated me the most: Monte Carlo methods for efficient computation of **conditioned integrals** ('Spheres in 3D box - Monte Carlo'), physical phenomenon of **percolation** ('Size distribution - Hoshen-Kopelman algorithm'), complicated physical models as the **Ising Model** ('Ising model - Metropolis algorithm') and interesting mathematical phenomena as the emergence of **fractals** ('Diffusion Limited Aggregation').

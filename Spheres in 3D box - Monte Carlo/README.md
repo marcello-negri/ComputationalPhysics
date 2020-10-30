@@ -1,0 +1,3 @@
+## Description
+
+In this task I exploited **Monte Carlo** methods to compute the **average distance** between n hard spheres in a 3D box, pictured in spheres.pdf. The spheres are not allowed to overlap with each other which means that their positions are not independent. This results in a conditioned integration not easily solvable by conventional numerical methods but this can be preventd using a Monte Carlo approach which implies averaging over a number of different **random configurations**. The convergence of the integral as a function of the number of configurations and of the number of spheres is plotted in results.pdf.
